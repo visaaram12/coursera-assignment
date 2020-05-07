@@ -6,6 +6,7 @@
 h1
 {
 	text-align: center;
+	font-size: 35px;
 
 }
 .col-lg-3{
@@ -39,7 +40,7 @@ h5
 {
 	height: 40px;
 	font-weight: bold;
-	font-size:  20px;
+	font-size:  25px;
 	float: right;
 	margin: 0;
 	width: 90%
