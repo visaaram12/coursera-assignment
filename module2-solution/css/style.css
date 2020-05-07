@@ -43,7 +43,7 @@ h5
 	font-size:  25px;
 	float: right;
 	margin: 0;
-	width:50%;
+	width:50px;
 	box-sizing: border-box;
 	border: 2px solid black;
 	border-collapse: collapse;
@@ -57,7 +57,7 @@ h5
 	clear:both;
 	background-color: pink;
 	color:black;
-	width: 90%;
+	
 }
 #t2
 {
@@ -65,13 +65,13 @@ h5
 	background-color: red;
 	clear:both;
 	color:white;
-	width: 90%;
+	
 }
 #t3
 {
 	clear:both;
 	background-color: green;
-	width: 90%;
+	
 }
 
 
