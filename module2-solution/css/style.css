@@ -42,7 +42,7 @@ h5
 	font-size:  20px;
 	float: right;
 	margin: 0;
-	
+	width: 90%
 	box-sizing: border-box;
 	border: 2px solid black;
 	border-collapse: collapse;
@@ -55,12 +55,14 @@ h5
 {
 	clear:both;
 	background-color: pink;
+	color:black;
 }
 #t2
 {
 	clear:both;
 	background-color: red;
 	clear:both;
+	color:white;
 }
 #t3
 {
@@ -78,10 +80,17 @@ h5
 }
 @media(min-width:768px) and (max-width: 991px)
 {
-	.col-lg-3
+	.col-md-3
 	{
 		width:50%;
+
 	}
+	.col-md-12
+	{
+		width:100%;
+		
+	}
+
 }
 @media(max-width:767px)
 {
