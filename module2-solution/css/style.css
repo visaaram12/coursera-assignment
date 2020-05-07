@@ -57,6 +57,7 @@ h5
 	clear:both;
 	background-color: pink;
 	color:black;
+	width: 90%;
 }
 #t2
 {
@@ -64,11 +65,13 @@ h5
 	background-color: red;
 	clear:both;
 	color:white;
+	width: 90%;
 }
 #t3
 {
 	clear:both;
 	background-color: green;
+	width: 90%;
 }
 
 
